@@ -4,9 +4,11 @@
 學習新的技能就像破關一樣，每天都在挑戰不同的魔王！
 
 ୧ʕ•̀ᴥ•́ʔ୨
+
 熱衷研究新東西，始終對很多新鮮的事物感到好奇，因而嘗試很多方法來達成目標。
 
 ʕ•̫͡•ʕ̫͡ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ̫͡ʔ-̫͡-ʔ
+
 I’m currently learning **Frontend: HTML, CSS, Tailwind, JS, React.js, Next.js ; Backend: Ruby, Ruby on Rails**
 
 (♡˙︶˙♡) How to reach me? Here is my e-mail: **czinni853@gmail.com** (♡˙︶˙♡)
