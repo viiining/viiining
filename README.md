@@ -8,7 +8,9 @@
 
 I’m currently learning **Frontend: HTML, CSS, Tailwind, JS, React.js, Next.js ; Backend: Ruby, Ruby on Rails**
 
-(♡˙︶˙♡) How to reach me? Here is my e-mail: **czinni853@gmail.com** (♡˙︶˙♡)
+(♡˙︶˙♡) Here is my e-mail: **czinni853@gmail.com** (♡˙︶˙♡)
+(♡˙︶˙♡) Here is my blog: **https://viiisit.com** (♡˙︶˙♡)
+
 
 <!---
 viiining/viiining is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
