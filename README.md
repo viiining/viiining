@@ -1,15 +1,17 @@
 ヽ(●´∀`●)ﾉ 
 
-嗨！我是芷，目前是持續精進自己技能點的階段，目標朝向 Full Stack Developer 邁進！
-學習新的技能就像破關一樣，每天都在挑戰不同的魔王！
+嗨！我是芷，目前是持續精進自己技能點的階段，目標朝向 Full Stack Developer 邁進！<br />
+學習新的技能就像破關一樣，每天都在挑戰不同的魔王！<br />
 熱衷研究新東西，始終對很多新鮮的事物感到好奇，因而嘗試很多方法來達成目標。
 
 ---
 
-I’m currently learning **Frontend: HTML, CSS, Tailwind, JS, React.js, Next.js ; Backend: Ruby, Ruby on Rails**
+I’m currently learning <br /> **Frontend: HTML, CSS, Tailwind, JS, React.js, Next.js <br /> Backend: Ruby, Ruby on Rails**
 
-(♡˙︶˙♡) Here is my e-mail: **czinni853@gmail.com** (♡˙︶˙♡)
-(♡˙︶˙♡) Here is my blog: **https://viiisit.com** (♡˙︶˙♡)
+(♡˙︶˙♡) 
+
+Here is my e-mail: **czinni853@gmail.com** <br />
+Here is my blog: **https://viiisit.com**
 
 
 <!---
