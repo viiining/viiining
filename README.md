@@ -6,7 +6,7 @@
 
 ---
 
-I’m currently learning <br /> **Frontend: HTML, CSS, Tailwind, JS, React.js, Next.js <br /> Backend: Ruby, Ruby on Rails**
+I’m currently learning <br /> **Frontend: HTML, CSS, Tailwind, JS <br /> Backend: Ruby, Ruby on Rails**
 
 (♡˙︶˙♡) 
 
