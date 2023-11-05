@@ -1,20 +1,33 @@
-ヽ(●´∀`●)ﾉ 
+<h1>Zinni Chang</h1>
+嗨！我是芷，持續精進技能點朝向 Full Stack Developer 邁進！<br />
+學習新的技能就像破關一樣，每天都在挑戰不同的魔王！
+<span>ヽ(●´∀`●)ﾉ  </span>
 
-嗨！我是芷，目前是持續精進自己技能點的階段，目標朝向 Full Stack Developer 邁進！<br />
-學習新的技能就像破關一樣，每天都在挑戰不同的魔王！<br />
-熱衷研究新東西，始終對很多新鮮的事物感到好奇，因而嘗試很多方法來達成目標。
+### Languages & Tools 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![Rails](https://img.shields.io/badge/-Rails-D30001?logo=rubyonrails&logoColor=white&style=for-the-badge)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/viiining)
 
 ---
 
-I’m currently learning <br /> **Frontend: HTML, Tailwind CSS, JavaScript, ReactJS <br /> Backend: Ruby, Ruby on Rails**
+### Contact me & Find me on 
 
-(♡˙︶˙♡) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/viiining)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:czinni853@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/1113786568956715118)
 
-Here is my e-mail: **czinni853@gmail.com** <br />
-Here is my blog: **https://viiisit.com**
+[![RSS](https://img.shields.io/badge/-RSS-FFA500?logo=rss&logoColor=white&style=for-the-badge)](https://viiisit.com/)
 
+---
+### My project
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viiining&repo=14th-READMee&theme=transparent&bg_color=fffaf5&title_color=FFA500&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-<!---
-viiining/viiining is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
